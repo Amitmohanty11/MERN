@@ -1,0 +1,4 @@
+module.exports = {
+    a: 7,
+    b: 5
+}
